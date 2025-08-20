@@ -10,6 +10,7 @@ import { Project } from './pages/project/project';
 
 export const routes: Routes = [
   { path: '', component: Home },
+  { path: '**', redirectTo: '' },
   { path: 'about', component: About },
   { path: 'service', component: Service },
   { path: 'technologies', component: Technologies },
