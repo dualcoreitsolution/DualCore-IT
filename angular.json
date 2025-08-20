@@ -59,10 +59,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Netbugs:build:production"
+              "buildTarget": "DualCoreIT:build:production"
             },
             "development": {
-              "buildTarget": "Netbugs:build:development"
+              "buildTarget": "DualCoreIT:build:development"
             }
           },
           "defaultConfiguration": "development"
