@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/DualCore-IT": {},
+    "/DualCore-IT/about": {},
+    "/DualCore-IT/blog": {},
+    "/DualCore-IT/career": {},
+    "/DualCore-IT/contact": {},
+    "/DualCore-IT/project": {},
+    "/DualCore-IT/service": {},
+    "/DualCore-IT/technologies": {}
+  }
+}
